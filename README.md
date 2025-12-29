@@ -44,8 +44,6 @@ src/
 ├── LibraryException.java
 └── Main.java
 
-yaml
-Copy code
 
 ---
 
