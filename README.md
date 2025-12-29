@@ -64,8 +64,6 @@ Return Book
 
 Exit
 
-yaml
-Copy code
 
 ---
 
